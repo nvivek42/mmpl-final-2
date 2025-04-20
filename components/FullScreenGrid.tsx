@@ -32,7 +32,7 @@ const gridItems: GridItem[] = [
   },
   {
     id: "infrastructure",
-    imageSrc: "/image/full-screen-grid/infra4.jpg",
+    imageSrc: "/image/full-screen-grid/infra5.jpg",
     title: "Infrastructure",
     link: "/who-we-are/facilities",
     alt: "infra",
