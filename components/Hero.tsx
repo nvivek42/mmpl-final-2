@@ -70,7 +70,7 @@ const Hero = () => {
         className="absolute inset-0 animate-subtle-zoom object-cover"
       />
       <div className="absolute inset-0 " />
-      <div className="absolute inset-0 bg-gradient-to-r from-black/10 via-transparent to-black/10 " />
+      <div className="absolute inset-0 bg-gradient-to-r from-white/5 via-transparent to-white/10 " />
 
       {/* Text Column */}
       <div className="px-4 md:px-8 lg:px-10 py-16  relative z-10 text-left max-w-[1400px] w-full">
